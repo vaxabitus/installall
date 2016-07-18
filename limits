@@ -1,0 +1,14 @@
+weblogic soft nofile 204800
+weblogic hard nofile 204800
+weblogic soft stack 4096
+weblogic hard stack 4096
+weblogic soft nproc 65556
+weblogic hard nproc 65556
+
+* soft nofile 204800
+* hard nofile 204800
+* soft stack 4096
+* hard stack 4096
+* soft nproc 65556
+* hard nproc 65556
+

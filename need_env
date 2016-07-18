@@ -1,0 +1,4 @@
+export ANT_HOME=/app/tools/apache-ant-1.8.3
+export JAVA_HOME=/usr/java/jdk1.6.0_45
+
+export PATH=$PATH:$JAVA_HOME/bin:$ANT_HOME/bin
